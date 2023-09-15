@@ -1,0 +1,11 @@
+Dataset source = https://www.kaggle.com/datasets/mnassrib/jena-climate/code
+
+
+
+•	How does the temperature vary throughout the years. Is any pattern observed ?
+•	What are the typical patterns of relative humidity during different seasons?
+•	Is there a noticeable long-term trend in temperature or humidity over the 6-year period?
+•	Are there any significant changes in wind speed or direction over time?
+•	Can we identify extreme weather events such as heatwaves, cold snaps, or storms based on the dataset?
+•	Were there any days with exceptionally high wind speeds, and what were the associated wind directions?
+•	Is there a time of year when high wind speeds are more common?
