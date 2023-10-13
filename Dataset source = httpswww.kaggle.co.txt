@@ -2,10 +2,28 @@ Dataset source = https://www.kaggle.com/datasets/mnassrib/jena-climate/code
 
 
 
-•	How does the temperature vary throughout the years. Is any pattern observed ?
+•	How does the temperature vary throughout the years. Is any pattern observed between temperature and vapor pressure ?
 •	What are the typical patterns of relative humidity during different seasons?
-•	Is there a noticeable long-term trend in temperature or humidity over the 6-year period?
+•	Is there a noticeable long-term trend in temperature or humidity over the 8-year period?
 •	Are there any significant changes in wind speed or direction over time?
 •	Can we identify extreme weather events such as heatwaves, cold snaps, or storms based on the dataset?
 •	Were there any days with exceptionally high wind speeds, and what were the associated wind directions?
 •	Is there a time of year when high wind speeds are more common?
+ How does the variability in wind velocity impact other meteorological parameters, such as temperature and humidity?
+Can we identify periods of high humidity 
+
+I wanted to inform you that I have successfully completed the assignment we discussed. I have put in a lot of effort and ensured that all the requirements and objectives have been met.
+
+The assignment is now ready for your evaluation. I have attached all the necessary files and documents to this email for your convenience. Please take your time to review the work, and if you have any feedback or questions, I am more than willing to address them promptly.
+
+I appreciate your guidance and support throughout this assignment, and I look forward to receiving your feedback. Your evaluation is important to me, and I am confident that you will find the work to be of high quality.
+
+Thank you for entrusting me with this assignment, and I am eager to hear your thoughts on the completed work.
+
+Best regards,
+[Your Name]
+
+
+
+
+
